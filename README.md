@@ -13,4 +13,10 @@ This project shows cards expanding when they are clicked. Did it based on Brad T
 
 ## Owner 
 Brad Traversy 
-- [@bradtraversy](https://github.com/bradtraversy)
+- Github: [@bradtraversy](https://github.com/bradtraversy)
+
+## Coded by
+Onoriode Dafetta 
+- Github: [@didhee](https://github.com/didhee)
+- Instagram: [@the_didhee](https://www.instagram.com/the_didhee)
+- Twitter: [@the_didhee](https://twitter.com/the_didhee)
