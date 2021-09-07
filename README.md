@@ -7,3 +7,6 @@ This project shows cards expanding when they are clicked. Did it based on Brad T
 - HTML
 - CSS
 - JavaScript
+
+## Live Demo
+- 
