@@ -9,4 +9,8 @@ This project shows cards expanding when they are clicked. Did it based on Brad T
 - JavaScript
 
 ## Live Demo
-- 
+- https://didhee.github.io/Expanding-cards/
+
+## Owner 
+Brad Traversy 
+- [@bradtraversy](https://github.com/bradtraversy)
